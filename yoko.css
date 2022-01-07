@@ -36,6 +36,7 @@ nav ul {
 
 nav li {
 	margin-right: 40px;
+	display: inline-block;
 }
 
 nav li a {
