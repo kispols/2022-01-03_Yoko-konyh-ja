@@ -112,6 +112,10 @@ aside {
 	margin-left: 20px;
 	float: right;
   }
+  aside a {
+	color: #de6581;
+	text-decoration: none;
+  }
 
 footer {
 	font-size: 80%;
